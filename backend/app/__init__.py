@@ -1,0 +1,1 @@
+"""Work360 Candidate Ranking Application"""
