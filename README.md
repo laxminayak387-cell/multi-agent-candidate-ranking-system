@@ -1,4 +1,4 @@
-# Work360 Candidate Ranking System
+#  Candidate Ranking System
 
 AI-powered candidate matching system that uses LangChain, vector embeddings, and pgvector to rank candidates against job descriptions.
 
